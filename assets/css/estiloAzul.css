@@ -1,0 +1,74 @@
+.textbox  {
+
+  border: 1px solid #DBE1EB;
+  font-size: 14px;
+  font-family: Arial, Verdana;
+  padding-left: 7px;
+  padding-right: 7px;
+  padding-top: 5px;
+  padding-bottom: 5px;
+  border-radius: 4px;
+  -moz-border-radius: 4px;
+  -webkit-border-radius: 4px;
+  -o-border-radius: 4px;
+  background: #FFFFFF;
+  background: linear-gradient(left, #FFFFFF, #F7F9FA);
+  background: -moz-linear-gradient(left, #FFFFFF, #F7F9FA);
+  background: -webkit-linear-gradient(left, #FFFFFF, #F7F9FA);
+  background: -o-linear-gradient(left, #FFFFFF, #F7F9FA);
+  color: #2E3133;
+  }
+  
+.textbox:focus  {
+  color: #2E3133;
+  border-color: #FBFFAD;
+}
+
+.etiq{
+  font-size: 14px;
+}
+
+
+.tituloPanel{
+  font-size: 16px;
+}
+
+.etiqRoja{
+  background-color: red;
+}
+.contenedor{
+  width: max-content;
+  background-color: red;
+}
+
+.row{
+	width: max-content;
+}
+
+.container{
+  margin-left: 0px;
+}
+
+.numProveedor{
+  width: 80px;
+}
+
+.nombreProveedor{
+  width: 410px;
+}
+
+.vigente {
+  width: 40px;
+}
+
+.numDiagnostico{
+  width: 100px;
+}
+
+.placa{
+  width: 80px;
+}
+
+.servSolicitado{
+  width: 700px;
+}
